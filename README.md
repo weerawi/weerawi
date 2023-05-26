@@ -1,12 +1,12 @@
 # Tharindu Vinod
 
-![My profile](https://avatars.githubusercontent.com/u/108020013?v=4)
+// ![My profile](https://avatars.githubusercontent.com/u/108020013?v=4)
 
 Hi I'm Tharindu Vinod
 
 ## About me
 
-I’m currently studying at the Faculty of computing and technology at the University of Kelaniya. I am passionate about [your interests] and I am always looking for new challenges. I am also a strong believer in open source software and I am always willing to help others.
+I’m currently studying at the Faculty of computing and technology at the University of Kelaniya. I am passionate about new technologies and I am always looking for new challenges. I am also a strong believer in open source software and I am always willing to help others.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
