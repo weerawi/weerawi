@@ -1,6 +1,5 @@
 # Tharindu Vinod
 
-// ![My profile](https://avatars.githubusercontent.com/u/108020013?v=4)
 
 Hi I'm Tharindu Vinod
 
