@@ -9,6 +9,10 @@ I’m currently studying at the Faculty of computing and technology at the Unive
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+
+![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weerawi&show_icons=true&theme=radical)
+
+
 ## Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
