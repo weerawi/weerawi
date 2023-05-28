@@ -7,7 +7,7 @@ Hi I'm Tharindu Vinod
 
 I’m currently studying at the Faculty of computing and technology at the University of Kelaniya. I am passionate about new technologies and I am always looking for new challenges. I am also a strong believer in open source software and I am always willing to help others.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weerawi)](https://git.io/streak-stats)
 
 
 [![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180)](https://stackoverflow.com/users/18961180/tharindu-vinod)
