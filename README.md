@@ -11,13 +11,13 @@ I’m currently studying at the Faculty of computing and technology at the Unive
 
  
  
- [![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180)](https://stackoverflow.com/users/18961180/tharindu-vinod)
+ [![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180&theme=highcontrast)](https://stackoverflow.com/users/18961180/tharindu-vinod)
  
 
  
 
 ## Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weerawi&layout=compact&theme=highcontrast)
 
 
 [![An image of @weerawi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weerawi)](https://holopin.io/@weerawi)
