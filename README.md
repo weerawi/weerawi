@@ -10,6 +10,9 @@ I’m currently studying at the Faculty of computing and technology at the Unive
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
+[![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180)](https://stackoverflow.com/users/18961180/tharindu-vinod)
+
+
 ![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weerawi&show_icons=true&theme=radical)
 
 
