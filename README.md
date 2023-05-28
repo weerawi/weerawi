@@ -9,15 +9,17 @@ I’m currently studying at the Faculty of computing and technology at the Unive
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weerawi)](https://git.io/streak-stats) ![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weerawi&show_icons=true&theme=radical)
 
+<p align="center">
+    [![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180)](https://stackoverflow.com/users/18961180/tharindu-vinod)
+</p>
 
-[![Tharindu Vinod StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18961180)](https://stackoverflow.com/users/18961180/tharindu-vinod)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 
 
 
 
 ## Languages 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 
 [![An image of @weerawi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weerawi)](https://holopin.io/@weerawi)
